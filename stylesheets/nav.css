@@ -57,12 +57,12 @@ nav a{
 
 }
 
-.nav-toggle{
+ .nav-toggle{
   display:none;
 }
-.nav-toggle-label{
+/* .nav-toggle-label{
   display:none;
-}
+}  */
 
 nav a::before{
   content: " ";
