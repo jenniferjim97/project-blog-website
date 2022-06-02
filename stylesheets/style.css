@@ -39,6 +39,10 @@ p{
 
 }
 
+figcaption{
+  text-align:center;
+}
+
 img{
   background-size: cover;
   background-position: center;
